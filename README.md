@@ -42,13 +42,13 @@ rogram powinien posiadać klasy odpowiadające za bardziej zaawansowane struktur
 
 W formacie pliku przechowującego generację należy zawrzeć informacje o tym, czy jest to definicja pojedynczej komórki czy całego obiektu.
 
-Przykład:
-Diode: 0, 3, Normal
-Diode: 0, 9, Reversed
-ElectronHead: 1, 3
-ElectronHead: 1, 9 
-ElectronTail: 0, 3
-ElectronTail: 0, 9 
+Przykład:  
+Diode: 0, 3, Normal  
+Diode: 0, 9, Reversed  
+ElectronHead: 1, 3  
+ElectronHead: 1, 9  
+ElectronTail: 0, 3  
+ElectronTail: 0, 9  
 ![](Wireworld_two-diodes.gif)  
 
 ## Przydatne linki: 
