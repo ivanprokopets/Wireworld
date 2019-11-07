@@ -53,8 +53,8 @@ ElectronTail: 0, 9
 
 ## Przydatne linki: 
 
-http://en.wikipedia.org/wiki/Wireworld
-http://mathworld.wolfram.com/WireWorld.html
-http://www.quinapalus.com/wi-index.html -- komputer znajdujący liczby pierwsze zaimplementowany w Wireworld: 
+http://en.wikipedia.org/wiki/Wireworld  
+http://mathworld.wolfram.com/WireWorld.html  
+http://www.quinapalus.com/wi-index.html -- komputer znajdujący liczby pierwsze zaimplementowany w Wireworld:  
 ![](ww800x600.gif)  
 
