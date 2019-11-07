@@ -22,5 +22,5 @@ W WireWorld stosuje się sąsiedztwo Moore'a.
 - sąsiedztwo Moore'a: 8 przylegających komórek (znajdujących się: na południu, na południowym-zachodzie, na zachodzie, na północnym-zachodzie, na północy, na północnym-wschodzie, na wschodzie i na południowym-wschodzie).
 - sąsiedztwo von Neumanna: 4 przylegające komórki (na południu, zachodzie, północy i wschodzie).
 
-Demonstracja: 
-![](wireworld.gif)  
+Demonstracja:  
+![](wireworl.gif)  
