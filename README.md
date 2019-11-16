@@ -42,7 +42,7 @@ rogram powinien posiadać klasy odpowiadające za bardziej zaawansowane struktur
 
 W formacie pliku przechowującego generację należy zawrzeć informacje o tym, czy jest to definicja pojedynczej komórki czy całego obiektu.
 
-Przykład:  
+Przykłady:  
 Diode: 0, 3, Normal  
 Diode: 0, 9, Reversed  
 ElectronHead: 1, 3  
