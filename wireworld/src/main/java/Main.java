@@ -1,6 +1,8 @@
+
 public class Main {
-        public static void main(String[] argc) {
-            Process start = new Process();
-            start.go();
-        }
+    public static void main(String[] args) {
+        Process start = new Process();
+        start.go();
+    }
 }
+

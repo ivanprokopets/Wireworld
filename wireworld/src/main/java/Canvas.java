@@ -1,3 +1,4 @@
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -16,6 +17,7 @@ public class Canvas extends JPanel {
         this.canvasPanel = canvasPanel;
         this.POINT_RADIUS = POINT_RADIUS;
     }
+
 
     @Override
     public void paint(Graphics g) {

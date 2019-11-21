@@ -1,3 +1,4 @@
+
 public class ProcessOfLife {
     private int[][] tabl;
     private int[][] tabl2;
