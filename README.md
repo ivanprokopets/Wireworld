@@ -2,7 +2,7 @@
 Wireworld is a cellular automaton first proposed by Brian Silverman in 1987
 
 ### Opis: 
-
+Patrz [finish_dokumentation](./Functional_specification/Finish_Dokumentation.pdf)
 Komórka może znajdować się w jednym z czterech stanów:
 1. Pusta,  
 2. Głowa elektronu,  
